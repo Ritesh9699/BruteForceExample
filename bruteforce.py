@@ -133,7 +133,7 @@ for i in tqdm(range(len(arr))):
 		while True:
 			if checkifurlkilled()==True:
 				break
-	#for Error: too many files open
+	#for Error: too many open files
 	if i%600==0 and not i==0:
 		#time.sleep(2) #increase time if this error occurs simultaneously
 		pass
