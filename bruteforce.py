@@ -1,18 +1,4 @@
-'''
-Copyright 2020 Ritesh Khandekar
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-'''
 #THIS PROGRAM IS FOR SHOWING HOW BRUTE FORCE IS USED ON WEBSITES.I HAVE GIVEN EXAMPLE OF WEBSITE OF RESULTS. DO NOT MISUSE OF THIS PROGRAM USE IT FOR READING PURPOSE. I AM NOT RESPONSIBLE FOR MISUSE AND ANY DAMAGE CAUSED BY THIS PROGRAM!
 #THIS PROGRAM WORKS AS EXPECTED AND CAUSE DAMAGE TO SERVER. USE IT FOR READING PURPOSE AND TEST SIMILAR PROGRAM ON YOUR WEBSITE FOR PENETRATION TESTING
 
